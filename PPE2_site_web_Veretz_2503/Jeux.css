@@ -1,0 +1,22 @@
+ button.btn{
+    font-size: 1.5em;
+    padding: 5e.m;
+	margin : 10px;
+  }
+  section.Jeux p{
+	  padding : 4px;
+	  background-color :#FF917D ;
+
+  }
+  .onglet{
+    display:none;
+    width:100%;
+    min-height:60px;
+    padding:10px;
+    margin :5px;
+    border : 1px solid black;
+  }
+  
+  .active{
+    background-color : green;
+  }
